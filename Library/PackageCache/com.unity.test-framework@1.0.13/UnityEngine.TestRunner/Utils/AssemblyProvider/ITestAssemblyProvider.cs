@@ -8,3 +8,5 @@ namespace UnityEngine.TestTools.Utils
         IAssemblyWrapper[] GetUserAssemblies();
     }
 }
+
+# 2026-11-03
